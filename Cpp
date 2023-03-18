@@ -2,3 +2,5 @@
 C++
 1.How to Implement Reflection
   https://pvs-studio.com/en/blog/posts/cpp/0956/
+2.Reflection within 100 lines
+  https://stackoverflow.com/questions/41453/how-can-i-add-reflection-to-a-c-application

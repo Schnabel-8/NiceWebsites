@@ -4,3 +4,5 @@ C++
   https://pvs-studio.com/en/blog/posts/cpp/0956/
 2.Reflection within 100 lines
   https://stackoverflow.com/questions/41453/how-can-i-add-reflection-to-a-c-application
+3.This Website is friendly to newbee
+  https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/
